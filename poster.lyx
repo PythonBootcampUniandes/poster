@@ -148,13 +148,15 @@ Curso de programación científica en Python
 \begin_layout Standard
 \align center
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="3">
+<lyxtabular version="3" rows="2" columns="5">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
 <column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
 <row>
-<cell multirow="3" alignment="left" valignment="middle" usebox="none">
+<cell multirow="3" alignment="center" valignment="middle" usebox="none">
 \begin_inset Text
 
 \begin_layout Plain Layout
@@ -177,17 +179,14 @@ Curso de programación científica en Python
 \end_inset
 
 
-\begin_inset space \qquad{}
+\end_layout
+
 \end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
 
-
-\begin_inset space \qquad{}
-\end_inset
-
-
-\begin_inset space \qquad{}
-\end_inset
-
+\begin_layout Plain Layout
 
 \end_layout
 
@@ -197,6 +196,24 @@ Curso de programación científica en Python
 \begin_inset Text
 
 \begin_layout Plain Layout
+\begin_inset space \qquad{}
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="3" alignment="center" valignment="middle" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename uniandes.png
+	scale 50
+
+\end_inset
+
 
 \end_layout
 
@@ -257,7 +274,7 @@ Organizadores:
 Jaime Forero-Romero
 \emph default
  (Prof.
- asistente de Física) y 
+ planta de Física) y 
 \emph on
 Carlos A.
  Córdoba
@@ -277,7 +294,7 @@ Carlos A.
 \size larger
 Fecha: 
 \series default
-28 a 30 de Abril/2017
+29 y 30 de Abril/2017
 \end_layout
 
 \begin_layout Plain Layout
@@ -298,6 +315,24 @@ Lugar
 
 \end_inset
 
+
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+</cell>
+<cell multirow="4" alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
 
 \end_layout
 
@@ -374,7 +409,7 @@ height "1pt"
 \begin_inset Graphics
 	filename qrcode.png
 	lyxscale 25
-	scale 30
+	scale 28
 
 \end_inset
 
