@@ -128,7 +128,7 @@ status open
 Curso de programación científica en Python
 \size huge
 
-\begin_inset VSpace 0.4cm
+\begin_inset VSpace 0.3cm
 \end_inset
 
 
@@ -139,7 +139,7 @@ Curso de programación científica en Python
 
 \size larger
 
-\begin_inset VSpace 0.8cm
+\begin_inset VSpace 0.5cm
 \end_inset
 
 
@@ -348,7 +348,7 @@ Lugar
 
 \begin_layout Standard
 \align center
-\begin_inset VSpace 0.8cm
+\begin_inset VSpace 0.5cm
 \end_inset
 
 
@@ -367,7 +367,7 @@ height "1pt"
 \end_layout
 
 \begin_layout Standard
-\begin_inset VSpace defskip
+\begin_inset VSpace 0.5cm
 \end_inset
 
 
@@ -378,47 +378,9 @@ height "1pt"
 
 \size largest
 \begin_inset Tabular
-<lyxtabular version="3" rows="2" columns="3">
+<lyxtabular version="3" rows="1" columns="1">
 <features tabularvalignment="middle">
 <column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<column alignment="center" valignment="top">
-<row>
-<cell alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multirow="3" alignment="center" valignment="middle" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multirow="3" alignment="center" valignment="middle" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename qrcode.png
-	lyxscale 25
-	scale 28
-
-\end_inset
-
-
-\end_layout
-
-\end_inset
-</cell>
-</row>
 <row>
 <cell alignment="center" valignment="top" usebox="none">
 \begin_inset Text
@@ -470,24 +432,6 @@ https://pythonbootcampuniandes.github.io/
 
 \end_inset
 </cell>
-<cell multirow="4" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
-<cell multirow="4" alignment="center" valignment="top" usebox="none">
-\begin_inset Text
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-</cell>
 </row>
 </lyxtabular>
 
@@ -496,7 +440,7 @@ https://pythonbootcampuniandes.github.io/
 
 \series bold
 
-\begin_inset VSpace 1cm
+\begin_inset VSpace 0.5cm
 \end_inset
 
 
@@ -748,6 +692,36 @@ Desarrolle distintos proyectos propuestos por los organizadores para profundizar
 \end_inset
 
 
+\begin_inset VSpace 0.1cm
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset line
+LatexCommand rule
+offset "0ex"
+width "95col%"
+height "1pt"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\size footnotesize
+Universidad de los Andes | Vigilada Mineducación | Todos los derechos reservados
+ | Reconocimiento como Universidad: Decreto 1297 del 30 de Mayo de 1964
+\end_layout
+
+\begin_layout Standard
+
+\size footnotesize
+Reconocimiento Personería Jurídica: Resolución 28 del 23 de Febrero de 1949
+ Minjusticia.
 \end_layout
 
 \end_body
